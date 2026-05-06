@@ -1,3 +1,4 @@
+//<![CDATA[
 (function() {
     // 1. الإعدادات الأساسية
     const validDomain = "nmu-ce.giize.com";
@@ -38,3 +39,4 @@
     // تعريف متغير عالمي للتأكد من تحميل الملف بنجاح
     window.externalSecureLoaded = true;
 })();
+//]]>
